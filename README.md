@@ -6,6 +6,7 @@
 VSCode 사용
 
 2. 실행 방법
+
   npm update
 
   npm start
