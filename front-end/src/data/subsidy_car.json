@@ -1,0 +1,378 @@
+[
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "GV60 스탠다드 2WD 19인치",
+        "subsidy": 340
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "GV60 스탠다드 AWD 19인치",
+        "subsidy": 337
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "GV60 스탠다드 AWD 20인치",
+        "subsidy": 326
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "GV60 퍼포먼스 2WD 21인치",
+        "subsidy": 311
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "Electrified GV70 AWD 20인치",
+        "subsidy": 322
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "Electrified GV70 AWD 19인치",
+        "subsidy": 337
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "Electrified G80 ",
+        "subsidy": 337
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉5 2WD 스탠다드 19인치",
+        "subsidy": 678
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉5 AWD 스탠다드 19인치",
+        "subsidy": 653
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉5 2WD 롱레인지 19인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉5 2WD 롱레인지 19인치 빌트인캠 미적용",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉5 2WD 롱레인지 20인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉5 AWD 롱레인지 19인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉5 AWD 롱레인지 20인치",
+        "subsidy": 655
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉6 스탠다드 2WD 18인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉6 롱레인지 2WD 18인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉6 롱레인지 2WD 20인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "현대자동차",
+        "car": "아이오닉6 롱레인지 AWD 18인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "EV6 스탠다드 2WD 19인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "EV6 스탠다드 4WD 19인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "EV6 롱레인지 2WD 20인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "EV6 롱레인지 4WD 20인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "EV6 롱레인지 2WD 19인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "EV6 롱레인지 4WD 19인치",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "EV6 GT",
+        "subsidy": 304
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "The all-new Kia Niro EV",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "기아",
+        "car": "니로 플러스",
+        "subsidy": 680
+    },
+    {
+        "type": "승용",
+        "company": "한국지엠",
+        "car": "볼트 EV",
+        "subsidy": 640
+    },
+    {
+        "type": "승용",
+        "company": "한국지엠",
+        "car": "볼트 EUV",
+        "subsidy": 640
+    },
+    {
+        "type": "승용",
+        "company": "쌍용자동차",
+        "car": "코란도 e-motion 2WD Heat Pump",
+        "subsidy": 608
+    },
+    {
+        "type": "승용",
+        "company": "스마트솔루션즈",
+        "car": "EV Z",
+        "subsidy": 472
+    },
+    {
+        "type": "승용",
+        "company": "테슬라코리아",
+        "car": "Model 3 RWD",
+        "subsidy": 260
+    },
+    {
+        "type": "승용",
+        "company": "테슬라코리아",
+        "car": "Model 3 Long Range",
+        "subsidy": 260
+    },
+    {
+        "type": "승용",
+        "company": "테슬라코리아",
+        "car": "Model 3 Performance",
+        "subsidy": 260
+    },
+    {
+        "type": "승용",
+        "company": "테슬라코리아",
+        "car": "Model Y RWD",
+        "subsidy": 260
+    },
+    {
+        "type": "승용",
+        "company": "테슬라코리아",
+        "car": "Model Y Long Range",
+        "subsidy": 260
+    },
+    {
+        "type": "승용",
+        "company": "테슬라코리아",
+        "car": "Model Y Performance",
+        "subsidy": 260
+    },
+    {
+        "type": "승용",
+        "company": "벤츠코리아",
+        "car": "EQA250(MY22-1)",
+        "subsidy": 268
+    },
+    {
+        "type": "승용",
+        "company": "벤츠코리아",
+        "car": "EQA250(MY22-2)",
+        "subsidy": 273
+    },
+    {
+        "type": "승용",
+        "company": "벤츠코리아",
+        "car": "EQB300 4MATIC(5인승)",
+        "subsidy": 275
+    },
+    {
+        "type": "승용",
+        "company": "벤츠코리아",
+        "car": "EQB300 4MATIC75인승)",
+        "subsidy": 275
+    },
+    {
+        "type": "승용",
+        "company": "BMW",
+        "car": "iX1 xDrive30",
+        "subsidy": 295
+    },
+    {
+        "type": "승용",
+        "company": "BMW",
+        "car": "iX3 M Sport",
+        "subsidy": 293
+    },
+    {
+        "type": "승용",
+        "company": "BMW",
+        "car": "i4 eDrive40",
+        "subsidy": 326
+    },
+    {
+        "type": "승용",
+        "company": "BMW",
+        "car": "i4 M50",
+        "subsidy": 301
+    },
+    {
+        "type": "승용",
+        "company": "BMW",
+        "car": "MINI Cooper SE",
+        "subsidy": 557
+    },
+    {
+        "type": "승용",
+        "company": "폭스바겐그룹코리아",
+        "car": "폭스바겐 ID.4 Pro",
+        "subsidy": 560
+    },
+    {
+        "type": "승용",
+        "company": "폭스바겐그룹코리아",
+        "car": "아우디 Q4 Sprotback 40",
+        "subsidy": 253
+    },
+    {
+        "type": "승용",
+        "company": "폭스바겐그룹코리아",
+        "car": "아우디 Q4 Sprotback 40 Premium",
+        "subsidy": 253
+    },
+    {
+        "type": "승용",
+        "company": "스텔란티스코리아",
+        "car": "Peugeot e-208",
+        "subsidy": 484
+    },
+    {
+        "type": "승용",
+        "company": "스텔란티스코리아",
+        "car": "Peugeot e-2008 SUV",
+        "subsidy": 459
+    },
+    {
+        "type": "승용",
+        "company": "스텔란티스코리아",
+        "car": "Peugeot e-2008 SUV GT",
+        "subsidy": 438
+    },
+    {
+        "type": "승용",
+        "company": "스텔란티스코리아",
+        "car": "DS3 CROSSBACK E-TENSE",
+        "subsidy": 438
+    },
+    {
+        "type": "승용",
+        "company": "볼보자동차",
+        "car": "XC40 Recharge twin",
+        "subsidy": 203
+    },
+    {
+        "type": "승용",
+        "company": "볼보자동차",
+        "car": "C40 Recharge twin",
+        "subsidy": 212
+    },
+    {
+        "type": "승용",
+        "company": "폴스타오토모티브코리아",
+        "car": "Polestar 2 Long Range Single Motor",
+        "subsidy": 488
+    },
+    {
+        "type": "승용",
+        "company": "폴스타오토모티브코리아",
+        "car": "Polestar 2 Long Range Dual Motor",
+        "subsidy": 201
+    },
+
+
+    {
+        "type": "초소형",
+        "company": "대창모터스",
+        "car": "DANIGO",
+        "subsidy": 350
+    },
+    {
+        "type": "초소형",
+        "company": "마이브",
+        "car": "마이브 M1",
+        "subsidy": 350
+    },
+    {
+        "type": "초소형",
+        "company": "쎄보모빌리티",
+        "car": "CEVO-C SE",
+        "subsidy": 350
+    },
+    {
+        "type": "초소형",
+        "company": "쎄보모빌리티",
+        "car": "CEVO-C SE VAN",
+        "subsidy": 350
+    },
+
+
+    {
+        "type": "수소 승용",
+        "company": "현대자동차",
+        "car": "넥쏘 수소전기차",
+        "subsidy": 2250
+    }
+]
