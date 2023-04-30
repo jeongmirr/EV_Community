@@ -109,7 +109,7 @@ const KakaoMap = () => {
     return (
         <div style={{ textAlign: 'center' }}>
             <Search
-                placeholder="input search text"
+                placeholder="장소 검색"
                 allowClear
                 enterButton="검색"
                 size="large"
@@ -127,7 +127,8 @@ const KakaoMap = () => {
                 <p>{placeInfo.roadAddressName}</p>
                 <p>충전방식</p>
                 <p>충전기상태</p>
-                <span>예약시간 설정</span>
+                <br></br>
+                <span style={{ fontWeight: "bold"}}>예약시간 설정</span>
                 <p></p>
                 <Space direction="vertical" style={{ width: '100%' }}>
                     <RangePicker
