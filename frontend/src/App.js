@@ -8,6 +8,7 @@ import LoginForm from "./components/LoginForm";
 import KakaoMap from "./components/KakaoMap";
 import Subsidy from "./components/Subsidy";
 import Board from "./components/Board";
+import ErrorPage from "./components/ErrorPage";
 
 const { Content } = Layout;
 
@@ -24,6 +25,7 @@ const App = () => {
                     <Route path="/KaKaoMap" element={<KakaoMap/>} />
                     <Route path="/Subsidy" element={<Subsidy/>} />
                     <Route path="/Board" element={<Board/>} />
+                    <Route path="/*" element={<ErrorPage/>} />
                 </Routes>
             </div>
           </Content>
