@@ -27,14 +27,6 @@ const App = () => {
   return (
       <Router>
         <Layout>
-            <div className="App">
-                <header className="App-header">
-                    <h1 className="App-title">{message}</h1>
-                </header>
-                <p className="App-intro">
-                    To get started, edit <code>src/App.js</code> and save to reload.
-                </p>
-            </div>
           <Navbar />
           <Content style={{ padding: "0 50px", marginTop: 64 }}>
             <div style={{ background: "#fff", padding: 24, minHeight: 380 }}>
@@ -48,6 +40,11 @@ const App = () => {
                     <Route path="/*" element={<ErrorPage/>} />
                 </Routes>
             </div>
+              <div className="App">
+                  <header className="App-header">
+                      <h2 className="App-title">{message}</h2>
+                  </header>
+              </div>
           </Content>
         </Layout>
       </Router>
