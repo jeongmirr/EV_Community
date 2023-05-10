@@ -40,6 +40,7 @@ const App = () => {
                     <Route path="/*" element={<ErrorPage/>} />
                 </Routes>
             </div>
+
               <div className="App">
                   <header className="App-header">
                       <h2 className="App-title">{message}</h2>
