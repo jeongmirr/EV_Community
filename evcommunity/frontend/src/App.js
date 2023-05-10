@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState, useEffect} from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Layout } from "antd";
 import "./App.css";
@@ -14,9 +14,27 @@ import CreateBoard from "./components/CreateBoard";
 const { Content } = Layout;
 
 const App = () => {
+    const [message, setMessage] = useState("");
+
+    useEffect(() => {
+        fetch('/api/hello')
+            .then(response => response.text())
+            .then(message => {
+                setMessage(message);
+            });
+    },[])
+
   return (
       <Router>
         <Layout>
+            <div className="App">
+                <header className="App-header">
+                    <h1 className="App-title">{message}</h1>
+                </header>
+                <p className="App-intro">
+                    To get started, edit <code>src/App.js</code> and save to reload.
+                </p>
+            </div>
           <Navbar />
           <Content style={{ padding: "0 50px", marginTop: 64 }}>
             <div style={{ background: "#fff", padding: 24, minHeight: 380 }}>
