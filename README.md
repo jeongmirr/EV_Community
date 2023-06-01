@@ -13,7 +13,7 @@
 
 ##### 프로젝트 구조
 
-![](D:\한성대\4학년\1학기\캡스톤디자인_N\_제안서\이미지\캡처.PNG)
+![캡처](https://github.com/jeongmirr/EV_Community/assets/115198864/341dc734-2323-43b3-bd93-f08754f105f3)
 
 
 
