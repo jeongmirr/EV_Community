@@ -33,7 +33,7 @@
 
 - 보조금페이지 - 차종별 보조금 안내
 
-  ![](D:\한성대\4학년\1학기\캡스톤디자인_N\_제안서\이미지\004.PNG)
+  ![004](https://github.com/jeongmirr/EV_Community/assets/115198864/314ab503-73f3-4f0b-af47-c89445c8aec2)
 
 
 
