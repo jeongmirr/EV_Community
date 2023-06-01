@@ -1,0 +1,19 @@
+.Errpage{
+    font-size: 20px;
+    top : 50px;
+    text-align: center;
+
+}
+
+.backhomebutton{
+    width: 30%;
+    height: 48px;
+    border: none;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: #5cc6e9;
+    border-radius: 32px;
+    color: white;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
