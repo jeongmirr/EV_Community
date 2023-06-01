@@ -21,7 +21,7 @@
 
 - 메인페이지
 
-  ![](D:\한성대\4학년\1학기\캡스톤디자인_N\_제안서\이미지\001.PNG)
+  ![001](https://github.com/jeongmirr/EV_Community/assets/115198864/c39e6f86-6a9b-478a-929a-3ab27ffa51cf)
 
 - 충전소페이지
 
