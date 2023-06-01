@@ -25,7 +25,7 @@
 
 - 충전소페이지
 
-  ![](D:\한성대\4학년\1학기\캡스톤디자인_N\_제안서\이미지\002.PNG)
+  ![002](https://github.com/jeongmirr/EV_Community/assets/115198864/ba5cc43a-d3bb-4caf-9699-bd8104728808)
 
 - 충전소페이지 - 충전소 예약 모달창
 
