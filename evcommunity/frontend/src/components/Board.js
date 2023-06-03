@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Table, Pagination } from 'antd';
+import { Table, Pagination, Button } from 'antd';
 
 const Board = () => {
     const today = new Date();
@@ -41,6 +41,10 @@ const Board = () => {
         setCurrentPage(page);
     };
 
+    const handleButtonClick = () => {
+        window.location.href = '/CreateBoard';
+    };
+
     return (
         <div>
             <Table
@@ -49,13 +53,21 @@ const Board = () => {
                 pagination={false}
                 rowKey="key"
             />
-            <Pagination
-                current={currentPage}
-                pageSize={pageSize}
-                total={data.length}
-                onChange={onPageChange}
-                style={{ marginTop: '16px', textAlign: 'center' }}
-            />
+            <div style={{ marginTop: '16px', textAlign: 'center' }}>
+                <Pagination
+                    current={currentPage}
+                    pageSize={pageSize}
+                    total={data.length}
+                    onChange={onPageChange}
+                />
+                <Button
+                    onClick={handleButtonClick}
+                    type="default"
+                    style={{ marginTop: '16px'}}
+                >
+                    글쓰기
+                </Button>
+            </div>
         </div>
     );
 };
